@@ -1,4 +1,4 @@
-package com.lg.fly.lgspringsecurity;
+package com.lg.fly.lg;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

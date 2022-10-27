@@ -3,6 +3,11 @@
 2. 用户授权
 
 SpringSecurity本质是一个过滤器链
-spring修改
+
+如果github push不成功可以执行下边这两个命令
+
+git config --global --unset http.proxy
+
+git config --global --unset https.proxy
 
 
